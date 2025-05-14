@@ -14,12 +14,9 @@ MNIST Digit Classification with Custom and Pre-Trained CNNs/
 │   ├── custom_cnn_training_log.csv  # Training log for the custom CNN model
 │   ├── resnet50_training_log.csv    # Training log for the ResNet50 model
 │   ├── vgg19_training_log.csv       # Training log for the VGG19 model
-├── Model/
-│   ├── custom_cnn.pt                # Saved custom CNN model
-│   ├── resnet50.pt                  # Saved ResNet50 model
-│   ├── vgg19.pt                     # Saved VGG19 model
 ├── README.md                        # Project documentation
 ├── requirements.txt                 # Python dependencies
+
 ```
 
 ## Requirements
